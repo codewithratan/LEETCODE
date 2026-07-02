@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewithratan/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/codewithratan/LEETCODE/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
