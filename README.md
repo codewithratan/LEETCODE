@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/codewithratan/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewithratan/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/codewithratan/LEETCODE/tree/master/3620-network-recovery-pathways) |
@@ -93,4 +94,16 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/codewithratan/LEETCODE/tree/master/3620-network-recovery-pathways) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
