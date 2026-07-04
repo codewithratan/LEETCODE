@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/codewithratan/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewithratan/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -55,6 +56,7 @@
 | [0002-add-two-numbers](https://github.com/codewithratan/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/codewithratan/LEETCODE/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/codewithratan/LEETCODE/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -119,4 +121,12 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
