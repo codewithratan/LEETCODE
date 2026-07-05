@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/codewithratan/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewithratan/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
+| [1301-number-of-paths-with-max-score](https://github.com/codewithratan/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -38,6 +39,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/codewithratan/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codewithratan/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [1301-number-of-paths-with-max-score](https://github.com/codewithratan/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/codewithratan/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
