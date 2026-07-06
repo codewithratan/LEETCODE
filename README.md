@@ -61,6 +61,7 @@
 | [0007-reverse-integer](https://github.com/codewithratan/LEETCODE/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/codewithratan/LEETCODE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/codewithratan/LEETCODE/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/codewithratan/LEETCODE/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
