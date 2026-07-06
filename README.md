@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/codewithratan/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewithratan/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
+| [1288-remove-covered-intervals](https://github.com/codewithratan/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/codewithratan/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -117,6 +118,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/codewithratan/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
