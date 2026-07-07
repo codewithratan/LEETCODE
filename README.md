@@ -62,6 +62,7 @@
 | [0202-happy-number](https://github.com/codewithratan/LEETCODE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/codewithratan/LEETCODE/tree/master/0223-rectangle-area) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codewithratan/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
