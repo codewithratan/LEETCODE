@@ -13,12 +13,14 @@
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewithratan/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/codewithratan/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/codewithratan/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewithratan/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/codewithratan/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -32,6 +34,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewithratan/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -52,6 +55,7 @@
 | [0202-happy-number](https://github.com/codewithratan/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/codewithratan/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewithratan/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +96,7 @@
 | [0207-course-schedule](https://github.com/codewithratan/LEETCODE/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codewithratan/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/codewithratan/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
