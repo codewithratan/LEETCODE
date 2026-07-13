@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/codewithratan/LEETCODE/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |
