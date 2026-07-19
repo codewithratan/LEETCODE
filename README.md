@@ -107,6 +107,7 @@
 | [0008-string-to-integer-atoi](https://github.com/codewithratan/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/codewithratan/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithratan/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithratan/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -160,6 +161,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithratan/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewithratan/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -225,4 +227,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithratan/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithratan/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithratan/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
