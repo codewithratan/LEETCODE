@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/codewithratan/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/codewithratan/LEETCODE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/codewithratan/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/codewithratan/LEETCODE/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codewithratan/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/codewithratan/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/codewithratan/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -60,6 +61,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/codewithratan/LEETCODE/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codewithratan/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/codewithratan/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/codewithratan/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -111,6 +113,7 @@
 | [0205-isomorphic-strings](https://github.com/codewithratan/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/codewithratan/LEETCODE/tree/master/0212-word-search-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithratan/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/codewithratan/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithratan/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -227,6 +230,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/codewithratan/LEETCODE/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,4 +252,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithratan/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/codewithratan/LEETCODE/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
