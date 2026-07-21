@@ -110,6 +110,7 @@
 | [0008-string-to-integer-atoi](https://github.com/codewithratan/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/codewithratan/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithratan/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/codewithratan/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithratan/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/codewithratan/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/codewithratan/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/codewithratan/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -219,10 +221,12 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Bit Manipulation
 |  |
 | ------- |
