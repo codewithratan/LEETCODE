@@ -13,6 +13,7 @@
 | [0213-house-robber-ii](https://github.com/codewithratan/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/codewithratan/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/codewithratan/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codewithratan/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewithratan/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/codewithratan/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -86,6 +87,7 @@
 | [0202-happy-number](https://github.com/codewithratan/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/codewithratan/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/codewithratan/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithratan/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/codewithratan/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/codewithratan/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewithratan/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/codewithratan/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
