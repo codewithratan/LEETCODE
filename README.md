@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/codewithratan/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codewithratan/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/codewithratan/LEETCODE/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/codewithratan/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/codewithratan/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewithratan/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -212,6 +214,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/codewithratan/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/codewithratan/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewithratan/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/codewithratan/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -269,6 +272,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/codewithratan/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -324,4 +328,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/codewithratan/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
