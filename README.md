@@ -54,6 +54,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/codewithratan/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/codewithratan/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/codewithratan/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/codewithratan/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/codewithratan/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/codewithratan/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -209,6 +211,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/codewithratan/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/codewithratan/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/codewithratan/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -249,6 +252,7 @@
 | [0207-course-schedule](https://github.com/codewithratan/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/codewithratan/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/codewithratan/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -347,4 +351,12 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/codewithratan/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/codewithratan/LEETCODE/tree/master/1406-stone-game-iii) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
