@@ -25,6 +25,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithratan/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithratan/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/codewithratan/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/codewithratan/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/codewithratan/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -95,6 +97,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/codewithratan/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codewithratan/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithratan/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/codewithratan/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -254,6 +257,7 @@
 | [0207-course-schedule](https://github.com/codewithratan/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/codewithratan/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/codewithratan/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -289,6 +293,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/codewithratan/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
 ## Trie
 |  |
 | ------- |
@@ -361,4 +366,8 @@
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
+## Tree
+|  |
+| ------- |
+| [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
 <!---LeetCode Topics End-->
