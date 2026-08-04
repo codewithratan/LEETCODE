@@ -1,92 +1,65 @@
 class LockingTree {
-private:
-    vector<int> parent;
-    vector<vector<int>> children;
-    vector<int> lockedBy;
-    vector<int> lcd;
-
-    #define lockedDescendantCount lcd
-
-    bool hasLockedAncestor(int num) {
-        int p = parent[num];
-        while (p != -1) {
-            if (lockedBy[p] != -1)
-                return true;
-            p = parent[p];
-        }
+public:
+    vector<int> parent, locked;
+    vector<vector<int>> child;
+    
+    LockingTree(vector<int>& p) {
+        int n = p.size();
+        child.resize(n);
+        locked.resize(n, -1);
+        parent = p;
+        for(int i = 1 ; i < n; i++)
+            child[p[i]].push_back(i);
+    }
+    
+    bool isLockedChild(int& a){
+        if(a == -1) return false;
+        if(locked[a] != -1) return true;
+        for(auto& c: child[a])
+            if(isLockedChild(c)) return true;
         return false;
     }
-
-    void unlockDescendants(int num) {
-        for (int child : children[num]) {
-            unlockDescendants(child);
-        }
-
-        if (lockedBy[num] != -1) {
-            int user = lockedBy[num];
-            unlock(num, user);
-        }
+    
+    bool isLockedParent(int& a){
+        if(a == -1) return false;
+        if(locked[a] != -1) return true;
+        return isLockedParent(parent[a]);
     }
-
-public:
-    LockingTree(vector<int>& parent) {
-        int n = parent.size();
-        this->parent = parent;
-        children.resize(n);
-        lockedBy.assign(n, -1);
-        lcd.assign(n, 0);
-        for (int i = 0; i < n; i++) {
-            if (parent[i] != -1)
-                children[parent[i]].push_back(i);
-        }
+    
+    bool checkNode(int& num){
+        return isLockedChild(num) && !isLockedParent(num);
     }
-
+    
     bool lock(int num, int user) {
-        if (lockedBy[num] != -1)
+        if(locked[num] != -1)
             return false;
-        lockedBy[num] = user;
-
-        int p = parent[num];
-        while (p != -1) {
-            lcd[p]++;
-            p = parent[p];
-        }
+        locked[num] = user;
         return true;
     }
-
+    
     bool unlock(int num, int user) {
-        if (lockedBy[num] != user)
+        if(locked[num] == -1 || locked[num] != user)
             return false;
-        lockedBy[num] = -1;
-
-        int p = parent[num];
-        while (p != -1) {
-            lcd[p]--;
-            p = parent[p];
-        }
+        locked[num] = -1;
         return true;
     }
-
+    
     bool upgrade(int num, int user) {
-        if (lockedBy[num] != -1)
-            return false;
-
-        if (lcd[num] == 0)
-            return false;
-
-        if (hasLockedAncestor(num))
-            return false;
-
-        unlockDescendants(num);
-
-        return lock(num, user);
+        if(!checkNode(num)) return false;
+        queue<int> q;
+        q.push(num);
+        while(!q.empty()){
+            int sz = q.size();
+            while(sz--){
+                int node = q.front();
+                q.pop();
+                if(node == -1) continue;
+                locked[node] = -1;
+                for(auto& c: child[node])
+                    q.push(c);
+            }
+        }
+        locked[num] = user;
+        return true;
     }
 };
-
-/**
- * Your LockingTree object will be instantiated and called as such:
- * LockingTree* obj = new LockingTree(parent);
- * bool param_1 = obj->lock(num,user);
- * bool param_2 = obj->unlock(num,user);
- * bool param_3 = obj->upgrade(num,user);
- */
