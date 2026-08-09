@@ -17,6 +17,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/codewithratan/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/codewithratan/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewithratan/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/codewithratan/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/codewithratan/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/codewithratan/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/codewithratan/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -120,6 +121,7 @@
 | [0223-rectangle-area](https://github.com/codewithratan/LEETCODE/tree/master/0223-rectangle-area) |
 | [0486-predict-the-winner](https://github.com/codewithratan/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewithratan/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/codewithratan/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/codewithratan/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithratan/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithratan/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -210,6 +212,7 @@
 | [0005-longest-palindromic-substring](https://github.com/codewithratan/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0213-house-robber-ii](https://github.com/codewithratan/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/codewithratan/LEETCODE/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/codewithratan/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/codewithratan/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/codewithratan/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codewithratan/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -294,6 +297,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codewithratan/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/codewithratan/LEETCODE/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codewithratan/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithratan/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Design
@@ -366,6 +370,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/codewithratan/LEETCODE/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/codewithratan/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/codewithratan/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Kosaraju's Algorithm
 |  |
@@ -379,4 +384,12 @@
 |  |
 | ------- |
 | [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/codewithratan/LEETCODE/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/codewithratan/LEETCODE/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
