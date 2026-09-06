@@ -186,6 +186,7 @@
 | [0005-longest-palindromic-substring](https://github.com/codewithratan/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/codewithratan/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/codewithratan/LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0115-distinct-subsequences](https://github.com/codewithratan/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/codewithratan/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/codewithratan/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codewithratan/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/codewithratan/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0213-house-robber-ii](https://github.com/codewithratan/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/codewithratan/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/codewithratan/LEETCODE/tree/master/1140-stone-game-ii) |
