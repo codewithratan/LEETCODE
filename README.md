@@ -328,6 +328,7 @@
 | [0210-course-schedule-ii](https://github.com/codewithratan/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/codewithratan/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codewithratan/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/codewithratan/LEETCODE/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codewithratan/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/codewithratan/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -458,6 +459,7 @@
 |  |
 | ------- |
 | [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codewithratan/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
 |  |
 | ------- |
@@ -494,4 +496,8 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/codewithratan/LEETCODE/tree/master/0218-the-skyline-problem) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codewithratan/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
