@@ -156,6 +156,7 @@
 | [0486-predict-the-winner](https://github.com/codewithratan/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewithratan/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/codewithratan/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/codewithratan/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/codewithratan/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/codewithratan/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/codewithratan/LEETCODE/tree/master/1563-stone-game-v) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/codewithratan/LEETCODE/tree/master/0223-rectangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/codewithratan/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Prefix Sum
 |  |
 | ------- |
