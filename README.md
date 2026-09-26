@@ -28,6 +28,7 @@
 | [1406-stone-game-iii](https://github.com/codewithratan/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/codewithratan/LEETCODE/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithratan/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/codewithratan/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithratan/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -125,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/codewithratan/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/codewithratan/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithratan/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codewithratan/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewithratan/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -202,6 +204,7 @@
 | [0212-word-search-ii](https://github.com/codewithratan/LEETCODE/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/codewithratan/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithratan/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithratan/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codewithratan/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/codewithratan/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithratan/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
