@@ -32,6 +32,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithratan/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/codewithratan/LEETCODE/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/codewithratan/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithratan/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-operations-on-tree](https://github.com/codewithratan/LEETCODE/tree/master/1993-operations-on-tree) |
 | [2029-stone-game-ix](https://github.com/codewithratan/LEETCODE/tree/master/2029-stone-game-ix) |
@@ -109,6 +110,7 @@
 | [0218-the-skyline-problem](https://github.com/codewithratan/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/codewithratan/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/codewithratan/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/codewithratan/LEETCODE/tree/master/3620-network-recovery-pathways) |
