@@ -29,6 +29,7 @@
 | [1406-stone-game-iii](https://github.com/codewithratan/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/codewithratan/LEETCODE/tree/master/1563-stone-game-v) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/codewithratan/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithratan/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/codewithratan/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/codewithratan/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -110,6 +111,7 @@
 | [0218-the-skyline-problem](https://github.com/codewithratan/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/codewithratan/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codewithratan/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/codewithratan/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/codewithratan/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codewithratan/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -429,6 +431,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/codewithratan/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/codewithratan/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codewithratan/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewithratan/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -527,6 +530,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/codewithratan/LEETCODE/tree/master/0218-the-skyline-problem) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/codewithratan/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/codewithratan/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Binary Indexed Tree
 |  |
